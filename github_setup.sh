@@ -1,5 +1,3 @@
-sudo apt install git vim -y
-
 git config --global user.email "i_am@nulleekh.com"
 git config --global user.name "nulLeeKH"
 git config --global credential.helper "store"
