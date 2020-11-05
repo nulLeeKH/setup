@@ -1,7 +1,7 @@
-git config --global user.email "i_am@nulleekh.com"
-git config --global user.name "nulLeeKH"
-git config --global credential.helper "store"
-git config --global core.editor "vim"
+git config --global user.email "$1"
+git config --global user.name "$2"
+git config --global credential.helper "$3"
+git config --global core.editor "$4"
 
 echo
 echo ---------Done---------
