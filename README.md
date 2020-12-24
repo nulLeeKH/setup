@@ -1,4 +1,4 @@
-# github-setup
+# setup
 The repository to setup git on device for nulLeeKH
 
 ## How to use
