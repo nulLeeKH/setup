@@ -1,5 +1,5 @@
 # setup
-The repository to setup git on device for nulLeeKH
+The repository to setup device for nulLeeKH
 
 ## How to use
 
