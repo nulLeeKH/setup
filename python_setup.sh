@@ -2,7 +2,7 @@ sudo apt update
 
 sudo apt install make gcc -y
 
-sudo apt install curl libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev libffi6 libffi-dev -y
+sudo apt install curl libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev libffi6 libffi-dev libncurses5-dev libreadline-dev libgdm-dev libdb4o-cil-dev libpcap-dev -y
 wget https://www.python.org/ftp/python/3.7.6/Python-3.7.6.tgz
 tar xvfz Python-3.7.6.tgz
 sudo rm Python-3.7.6.tgz
